@@ -4,7 +4,7 @@ Dice = {
     #   5
     #   6
 
-    # 주사위전개도의 행방향(4, 1, 3)의 정보를 담고 있는 배열 
+    # 주사위전개도의 행방향(4, 1, 3)의 정보를 담고 있는 배열
     "row" : [0, 0, 0],
     # 주사위전개도의 열방향(2, 1, 5, 6)의 정보를 담고 있는 배열
     "column": [0, 0, 0, 0]
@@ -63,10 +63,10 @@ for i in range(K):
         check = True
     if check:
         reshape_Dice(do_it)
-        # 바닥면을 지도에 복사
+        # 바닥면을 지도에 복사함
         if Atlas[now_x][now_y] == 0:
             Atlas[now_x][now_y] = Dice["column"][3]
-        # 지도를 바닥면에 복사
+        # 지도를 바닥면에 복사함
         else:
             Dice["column"][3] = Atlas[now_x][now_y]
             Atlas[now_x][now_y] = 0
