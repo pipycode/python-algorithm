@@ -59,4 +59,6 @@
 | **Week41** <br>(8.21 ~ 8.27) | -- | [백준:스티커 붙이기](https://www.acmicpc.net/problem/18808) | [백준:레이저 통신](https://www.acmicpc.net/problem/6087) | [백준:전구와 스위치](https://www.acmicpc.net/problem/2138) | [백준:List of Unique Numbers](https://www.acmicpc.net/problem/13144) | [백준:뮤탈리스크](https://www.acmicpc.net/problem/12869)
 | **Week42** <br>(8.28 ~ 9.07) | -- | [백준:녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [백준:가희와 탑](https://www.acmicpc.net/problem/24337) | [백준:빌런 호석](https://www.acmicpc.net/problem/22251) | [백준:자두나무](https://www.acmicpc.net/problem/2240) | [백준:어드벤처 게임](https://www.acmicpc.net/problem/2310)
 | **Week43** <br>(9.08 ~ 9.14) | -- | [백준:거울 설치](https://www.acmicpc.net/problem/2151) | [백준:중앙값 구하기](https://www.acmicpc.net/problem/2696) | [백준:줄 세우기](https://www.acmicpc.net/problem/7570) | [백준:1학년](https://www.acmicpc.net/problem/5557) | [백준:우주신과의 교감](https://www.acmicpc.net/problem/1774)
+| **Week43** <br>(10.13 ~ 10.19) | -- | [백준:호텔](https://www.acmicpc.net/problem/1106) | [백준:카드 섞기](https://www.acmicpc.net/problem/1091) | [백준:컬러볼](https://www.acmicpc.net/problem/10800) | [백준:크게 만들기](https://www.acmicpc.net/problem/2812) | [백준:달이 차오른다,가자.](https://www.acmicpc.net/problem/1194)
+
 
